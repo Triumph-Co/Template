@@ -8,4 +8,4 @@
 ![GitHub Pull requests](https://img.shields.io/github/issues-pr/Triumph-Co/Template?label=%F0%9F%94%81%20Open%20Pull%20Requests)
 ![GitHub Discussions](https://img.shields.io/github/discussions/Triumph-Co/Template?color=%2300AECD&label=%F0%9F%92%AC%20Repo%20Discussions)
 ![GitHub Closed Milestones](https://img.shields.io/github/milestones/closed/Triumph-Co/Template?color=%2332BC00&label=%F0%9F%8F%86%20Closed%20Milestones)
-![GitHub Open Milestones](https://img.shields.io/github/milestones/open/Triumph-Co/.github?color=%23FFF000&label=%F0%9F%9B%A0%EF%B8%8F%20Open%20Milestones)
+![GitHub Open Milestones](https://img.shields.io/github/milestones/open/Triumph-Co/Template?color=%23FFF000&label=%F0%9F%9B%A0%EF%B8%8F%20Open%20Milestones)
